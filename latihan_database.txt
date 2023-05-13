@@ -1,2 +1,3 @@
 latihan_database_dasar
 repo ini berisi latihan query saya dari dasar
+juga berisi pengerjaan challenge-challenge SQL.
